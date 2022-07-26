@@ -1,0 +1,4 @@
+node_modules
+auth
+auth/*
+auth/atlas-password.js
