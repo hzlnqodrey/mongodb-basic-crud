@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "62df77e8998dcae58a992f11"
+  },
+  "nama": "Hazlan Muhammad Qodri",
+  "email": "c2297f2531@bangkit.academy"
+},{
+  "_id": {
+    "$oid": "62df7921998dcae58a992f13"
+  },
+  "nama": "Rivano Ardiyan Taufiq Kurniawan",
+  "email": "rivano.atk@gmail.com"
+},{
+  "_id": {
+    "$oid": "62df7921998dcae58a992f14"
+  },
+  "nama": "Riko Aminanda",
+  "email": "cemillik@gmail.com"
+},{
+  "_id": {
+    "$oid": "62df7a167b81c8e0022fbaa6"
+  },
+  "nama": "Bayu Fitri",
+  "email": "bayufp@gmail.com"
+},{
+  "_id": {
+    "$oid": "62df7b08dc68e77b337a5a57"
+  },
+  "nama": "Yohanes Ageng",
+  "email": "jojo@gmail.com"
+},{
+  "_id": {
+    "$oid": "62dfd404228c6f1d44fd7fe6"
+  },
+  "nama": "Gilang Martadinata",
+  "email": "gmd@gmail.com"
+},{
+  "_id": {
+    "$oid": "62dfd404228c6f1d44fd7fe7"
+  },
+  "nama": "Sang Bintang Putera Alam",
+  "email": "bintangpoetra@gmail.com"
+},{
+  "_id": {
+    "$oid": "62dfd404228c6f1d44fd7fe8"
+  },
+  "nama": "Pratama Azmi Atmajaya",
+  "email": "pratamacompeteros@gmail.com"
+},{
+  "_id": {
+    "$oid": "62dfd404228c6f1d44fd7fe9"
+  },
+  "nama": "Najma",
+  "email": "najmafahmi1@gmail.com"
+},{
+  "_id": {
+    "$oid": "62dfd404228c6f1d44fd7fea"
+  },
+  "nama": "Julio Fahcrel",
+  "email": "juliofachrel@unpad.ac.id"
+},{
+  "_id": {
+    "$oid": "62dfdb1664cb201a95730de2"
+  },
+  "nama": "Hazlan Muhammad Qodri",
+  "gmail": "hazlanmuhammadqodri3@gmail.com"
+}]
